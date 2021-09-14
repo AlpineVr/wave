@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to wave!
 
-You can use the [editor on GitHub](https://github.com/Dedruy/wave/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**What is Wave?**
+> Wave is a multifunction Discord bot built by Dedruy.
+> Wave can handel all your Moderation, Fun, Utility And Music needs!
+> The latest version of wave that is running on the main bot is `v0.1`
+> The version that is running on the Beta Bot is `v0.2`
 
 ### Markdown
 
